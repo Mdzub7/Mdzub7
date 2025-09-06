@@ -1,63 +1,145 @@
-<h2 align="left">Hi 👋! I'm Mohammed Zubair A</h2>
-<h3 align="left">🚀 AI/ML Engineer & Full-Stack Developer from Bengaluru, India</h3>
-
-<p align="left">
-  <em>Passionate about building intelligent systems and scalable applications</em><br>
-  🎓 Information Science & Engineering @ SMVIT (GPA: 9.5/10.0 - 2nd Highest in Cohort)<br>
-  🔭 Currently working as AI & Cloud Research Agent Intern at IBM<br>
-  🌱 Exploring LangGraph, RAG architectures, and real-time analytics<br>
-  💬 Ask me about AI/ML, Real-time Systems, and Full-Stack Development<br>
-  🌐 Portfolio: <a href="https://mohd-zub.netlify.app">mohd-zub.netlify.app</a>
-</p>
-
-## 📊 GitHub Stats
+# 🚀 Mohammed Zubair A
+### AI/ML Engineer | Real-Time Systems Architect | Full-Stack Developer
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdzub7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzub7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Research+Agent+%40+IBM;Real-Time+Analytics+Expert;Building+Intelligent+Systems;9.5%2F10+GPA+%7C+Top+2%25+Student)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🎯 **Currently Transforming Ideas Into Reality**
+
+🔬 **AI Research Agent Intern @ IBM** - Automating literature research with LangGraph & RAG  
+📊 **Real-Time Analytics Pioneer** - Processing 50K+ data points with 90%+ accuracy  
+🏆 **Academic Excellence** - 9.5/10 GPA, 2nd Highest in Engineering Cohort  
+🌍 **Based in Bengaluru** - Building the future of AI-powered applications
+
+---
+
+## ⚡ **Impact Metrics That Matter**
+
+<div align="center">
+
+| 🎯 **Research Efficiency** | 📈 **Data Processing** | 🚀 **Deployment Speed** | 🎓 **Academic Rank** |
+|:---:|:---:|:---:|:---:|
+| **75%** reduction in research time | **50K+** tweets processed | **40%** faster deployments | **Top 2%** in cohort |
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Real-Time & Cloud**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Full-Stack Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 **Flagship Projects**
+
+### 🤖 **AI-Powered Code Collaboration Platform**
+> *Real-Time Multi-User IDE with Generative AI*
+
+- **🎯 Impact**: 40% boost in development productivity
+- **👥 Scale**: Supports 10+ concurrent users with live cursors
+- **🧠 AI Features**: Auto-completion, syntax correction, inline docs via Gemini API
+- **⚡ Tech**: Next.js, Firebase, Monaco Editor, Docker, Judge0
+
+### 📊 **Real-Time Social Media Analytics Engine**
+> *Live Twitter Stream with AI Sentiment Analysis*
+
+- **📈 Performance**: 90%+ accuracy on 50K+ tweets
+- **⚡ Speed**: Real-time processing with Apache Kafka & Flink
+- **🏗️ Architecture**: 6+ Dockerized microservices
+- **📱 Dashboard**: Interactive React frontend with PostgreSQL backend
+
+---
+
+## 📈 **GitHub Analytics Dashboard**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzub7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzub7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzub7&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzub7&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdzub7&theme=tokyo-night&hide_border=true" height="165" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🎯 **Professional Journey**
 
-###
+### 🔬 **IBM - AI & Cloud Research Agent Intern** *(July 2025 - Present)*
+- Engineered AI Research Agent with **75% time reduction** in literature search
+- Built RAG pipeline processing **1,000+ academic documents**
+- **90% improvement** in research query accuracy
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+### 📊 **IBM & Rooman Technologies - AI/ML Engineer Intern** *(Sep 2024 - Jun 2025)*
+- Real-time sentiment analysis on **50K+ tweets** with **90% accuracy**
+- Deployed **5+ microservices** reducing deployment time by **40%**
+- Built interactive dashboards improving speed by **60%**
+
+---
+
+## 🎓 **Academic Excellence**
+
+**🏛️ Sir M. Visvesvaraya Institute of Technology**  
+*B.E. Information Science & Engineering* | **GPA: 9.5/10.0** | **2nd Highest in Cohort**
+
+**🏆 Presidency PU College**  
+*Pre-University (PCMC)* | **95.34%** | **State Top 5%**
+
+---
+
+## 🌐 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mohd-zub.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdzub7)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzub7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mdzub7@gmail.com)
+
+**📱 +91 9980531728** | **🌍 Bengaluru, India** | **💬 English, Hindi, Urdu, Kannada**
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+
+### 💡 *"Building intelligent systems that transform how we interact with data and technology"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdzub7&color=00D9FF&style=for-the-badge)
+
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
