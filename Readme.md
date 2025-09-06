@@ -24,7 +24,7 @@
 
 | 🎯 **Research Efficiency** | 📈 **Data Processing** | 🚀 **Deployment Speed** | 🎓 **Academic Rank** |
 |:---:|:---:|:---:|:---:|
-| **75%** reduction in research time | **50K+** tweets processed | **40%** faster deployments | **Top 1%** in cohort |
+| **75%** reduction in research time | **50K+** tweets processed with over 90% accuracy | **40%** faster deployments | **Top 1%** in cohort |
 
 </div>
 
@@ -33,6 +33,12 @@
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
+
+### **Java & Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Data Structures](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=algorithm&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,12 +52,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### **Java & Backend Development**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Data Structures](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=algorithm&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### **Full-Stack Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
