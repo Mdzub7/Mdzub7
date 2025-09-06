@@ -1,5 +1,5 @@
 # 🚀 Mohammed Zubair A
-### AI/ML Engineer | Real-Time Systems Architect | Full-Stack Developer
+### AI & ML Engineer | Java Full Stack Developer | Cloud Ops Engineer
 
 <div align="center">
   
@@ -11,10 +11,10 @@
 
 ## 🎯 **Currently Transforming Ideas Into Reality**
 
-🔬 **AI Research Agent Intern @ IBM** - Automating literature research with LangGraph & RAG  
-📊 **Real-Time Analytics Pioneer** - Processing 50K+ data points with 90%+ accuracy  
-🏆 **Academic Excellence** - 9.5/10 GPA, 2nd Highest in Engineering Cohort  
-🌍 **Based in Bengaluru** - Building the future of AI-powered applications
+🔬 **AI & Cloud Engineer Intern @ IBM** - Automating literature research with LangGraph & RAG  
+📊 **Real-Time Data Analytics Pioneer** - Processing 50K+ data points with 90%+ accuracy using Apache Kafka and Flink
+🏆 **Academic Excellence** - 9.5/10 GPA, 2nd Highest in Engineering Cohort, Secured 95.34% in High School 
+🌍 **Based in Bengaluru** - Building the future of AI-powered applications.
 
 ---
 
@@ -24,7 +24,7 @@
 
 | 🎯 **Research Efficiency** | 📈 **Data Processing** | 🚀 **Deployment Speed** | 🎓 **Academic Rank** |
 |:---:|:---:|:---:|:---:|
-| **75%** reduction in research time | **50K+** tweets processed | **40%** faster deployments | **Top 2%** in cohort |
+| **75%** reduction in research time | **50K+** tweets processed | **40%** faster deployments | **Top 1%** in cohort |
 
 </div>
 
@@ -97,31 +97,6 @@
 
 ---
 
-## 🎯 **Professional Journey**
-
-### 🔬 **IBM - AI & Cloud Research Agent Intern** *(July 2025 - Present)*
-- Engineered AI Research Agent with **75% time reduction** in literature search
-- Built RAG pipeline processing **1,000+ academic documents**
-- **90% improvement** in research query accuracy
-
-### 📊 **IBM & Rooman Technologies - AI/ML Engineer Intern** *(Sep 2024 - Jun 2025)*
-- Real-time sentiment analysis on **50K+ tweets** with **90% accuracy**
-- Deployed **5+ microservices** reducing deployment time by **40%**
-- Built interactive dashboards improving speed by **60%**
-
----
-
-## 🎓 **Academic Excellence**
-
-**🏛️ Sir M. Visvesvaraya Institute of Technology**  
-*B.E. Information Science & Engineering* | **GPA: 9.5/10.0** | **2nd Highest in Cohort**
-
-**🏆 Presidency PU College**  
-*Pre-University (PCMC)* | **95.34%** | **State Top 5%**
-
----
-
-## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
 
@@ -130,7 +105,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzub7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mdzub7@gmail.com)
 
-**📱 +91 9980531728** | **🌍 Bengaluru, India** | **💬 English, Hindi, Urdu, Kannada**
+**Email: Mdzub7@gmail.com** | **🌍 Bengaluru, India** | **💬 English, Hindi, Urdu, Kannada**
 
 </div>
 
